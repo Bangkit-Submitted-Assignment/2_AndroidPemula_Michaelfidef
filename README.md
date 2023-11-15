@@ -22,6 +22,7 @@
 
 **3. Halaman About**
 
+     Syarat
       - Menampilkan foto diri, nama, dan email yang terdaftar di Dicoding.
       - Dalam mengakses halaman about, pastikan terdapat tombol yang bisa digunakan untuk mengakses halamannya. Untuk cara mengaksesnya, kamu bisa mengimplementasikan :
             - Dengan menambahkan elemen View khusus (bisa option menu, tombol, atau tab) yang mengandung ID “about_page”
@@ -37,14 +38,14 @@
 
 **2. Informasi yang ditampilkan pada halaman detail lebih lengkap.**
 
-      - Jenis data yang ditampilkan bervariasi
+       - Jenis data yang ditampilkan bervariasi
 
 **3. Membuat custom splash screen yang menarik.**
-      - Pastikan nama Activity yang digunakan mengandung kata “Splash”
+       - Pastikan nama Activity yang digunakan mengandung kata “Splash”
 
 **4. Menggunakan CardView yang sesuai untuk menampilkan konten List.**
-      - Gunakan referensi CardView Guideline untuk menerapkan CardView yang baik dan benar.
+       - Gunakan referensi CardView Guideline untuk menerapkan CardView yang baik dan benar.
 
 **5. Mengimplementasikan fungsi Share pada halaman detail.**
 
-      - Pastikan pada tombol Share menggunakan id “action_share”
+       - Pastikan pada tombol Share menggunakan id “action_share”
