@@ -41,9 +41,11 @@
        - Jenis data yang ditampilkan bervariasi
 
 **3. Membuat custom splash screen yang menarik.**
+
        - Pastikan nama Activity yang digunakan mengandung kata “Splash”
 
 **4. Menggunakan CardView yang sesuai untuk menampilkan konten List.**
+
        - Gunakan referensi CardView Guideline untuk menerapkan CardView yang baik dan benar.
 
 **5. Mengimplementasikan fungsi Share pada halaman detail.**
